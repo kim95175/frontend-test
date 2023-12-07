@@ -20,8 +20,8 @@ const links = [
   },
   { name: 'Customers', href: '/dashboard/customers', icon: UserGroupIcon },
   {
-    name: 'Invoices',
-    href: '/dashboard/invoices',
+    name: 'Tests',
+    href: '/dashboard/',
     icon: DocumentDuplicateIcon,
   },
 ];
